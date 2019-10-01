@@ -1,0 +1,3 @@
+ce document est le journal global
+30/09/2019 :ce que j'ai retenu: git c'est pour collaborer
+
